@@ -1,0 +1,41 @@
+p a{
+    color: seagreen;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine ;
+}
+
+.amanha {
+    color: darkblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.hoje {
+    color: darkred;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h5 a {
+    text-decoration: none;
+}
+
+h5 {
+    text-align: center;
+    font-size: 15px;
+}
